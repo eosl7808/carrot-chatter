@@ -1,0 +1,68 @@
+.first-talk {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  margin-top: 10px;
+}
+.msg__time {
+  margin-right: 5px;
+  font-size: 7px;
+  padding-top: 30px;
+}
+.msg__time2 {
+  margin-left: 5px;
+  font-size: 7px;
+  padding-top: 30px;
+}
+.msg__q {
+  border: 1px solid;
+  background-color: salmon;
+  color: white;
+  border-radius: 20px;
+  padding: 15px;
+  margin-right: 5px;
+}
+
+.second-talk {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  margin-top: 10px;
+}
+.msg__a {
+  background-color: lightgray;
+  color: black;
+  border-radius: 20px;
+  padding: 15px;
+  margin-left: 5px;
+}
+
+.msg__planSet {
+  border: 1px solid gray;
+  margin: 10px 15px 10px 15px;
+
+  padding: 20px 10px 10px 20px;
+  border-radius: 5px;
+}
+
+.msg__planSet-plan {
+  display: flex;
+  justify-content: start;
+  align-items: center;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.msg__planSet-al {
+  margin-top: 5px;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.msg__plan-final {
+  margin-top: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
